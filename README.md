@@ -1,5 +1,8 @@
 # Go Code Colorado 2016: Grand Junction
 
+##Registration
+If you are not registered, go to http://gocode.colorado.gov/event/challenge-weekend-grand-junction/
+
 ##Wifi
 Network Name: <NAME>
 Password: <PASS>
