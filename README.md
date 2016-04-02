@@ -4,8 +4,8 @@
 If you are not registered, go to http://gocode.colorado.gov/event/challenge-weekend-grand-junction/
 
 ##Wifi
-- Network Name: <NAME>
-- Password: <PASS>
+- Network Name: IncubatorGuestAccess
+- Password: None
 
 ##Third-party Services
 - GitHub: https://docs.google.com/document/d/1KhLWzqs8uhnZrNbGWv4WxcWHig5y5UJCcN884wfQHz8/edit
